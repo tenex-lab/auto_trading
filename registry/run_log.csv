@@ -60,3 +60,4 @@ run_ts,run_type,days_lookback,num_results,num_qualifying,top_model_id,top_versio
 2026-07-31T02:00:20,daily,45,51,6,rf_tp,4.1.1,SOXL,-0.456649774450158
 2026-08-02T02:00:46,weekly,45,4960,1478,ote_long,5.1.1.1,SOXL,0.1810257844848602
 2026-08-03T02:00:45,daily,45,37,5,rf_tp,4.1.7.1,IWM,0.0691553636298413
+2026-08-04T02:01:07,daily,45,37,3,rf_tp,4.1.1,TQQQ,0.355652900101846
